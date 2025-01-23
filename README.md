@@ -14,7 +14,7 @@ To run this project
   npm run dev
 ```
 
-## Preview Virtual Tout 360
- - [Demooo](https://virtual-tour-360-odgv5sgr7-balyaawfas-projects.vercel.app/)
+## Preview Virtual Tour 360
+ - [Demooo](https://virtual-tour-360-zeta.vercel.app/)
 
 
